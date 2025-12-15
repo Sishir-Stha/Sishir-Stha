@@ -2,18 +2,8 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Sishir Shrestha</font></h1>
 <h3 align="center"><font face="Arial">I'm a Backend Developer with 2+ years of experience having a strong IT & Web Development background, experienced in Database Admin/Report Generation, Java Spring Boot API, React & Web Development.</font></h3>
 
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sishir-stha&label=Profile%20views&color=0e75b6&style=flat" alt="sishir-stha" /> </p>
-
-<!-- GitHub Trophy -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sishir-stha" alt="sishir-stha" />
-  </a>
-</p>
-
 <!-- Projects and Interests -->
-- 🔭 I’m currently working on [Integrated Airline Booking System API](https://github.com/Sishir-Stha/Airline-Booking-System)  
+- 🔭 I’m currently working on [Sikai Verse API](https://github.com/Sishir-Stha/SikaiVerse_Api)  
 - 🌱 I’m currently learning **React JS**  
 - 👯 I’m looking to collaborate on **Java Spring Boot Projects**  
 - 🤝 I’m looking for help with **Frontend and DevOps**  
