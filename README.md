@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sishir Shrestha</h1>
 
 <h3 align="center">
-Backend Developer (2+ years) | Java Spring Boot | React | Database Systems
+Backend Developer (2+ years) | Java Spring Boot | Node Js | Database Systems
 </h3>
 
 ---
@@ -9,7 +9,7 @@ Backend Developer (2+ years) | Java Spring Boot | React | Database Systems
 ## 🚀 About Me
 
 - 🔭 Currently working on [Sikai Verse API](https://github.com/Sishir-Stha/SikaiVerse_Api)
-- 🌱 Learning **React JS**
+- 🌱 Learning **Node JS**
 - 👯 Looking to collaborate on **Java Spring Boot projects**
 - 🤝 Need help with **Frontend & DevOps**
 - 💬 Ask me about **Java, SQL, Backend Systems**
