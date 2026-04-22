@@ -12,7 +12,6 @@ Backend Developer (2+ years) | Java Spring Boot | React | Database Systems
 - 🌱 Learning **React JS**
 - 👯 Looking to collaborate on **Java Spring Boot projects**
 - 🤝 Need help with **Frontend & DevOps**
-- 👨‍💻 Portfolio: https://sishirshrestha.netlify.app/
 - 💬 Ask me about **Java, SQL, Backend Systems**
 - 📫 Email: sishershrestha000@gmail.com
 - ⚡ Fun fact: I prefer building scalable backend systems over UI
