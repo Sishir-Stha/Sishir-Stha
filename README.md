@@ -8,7 +8,7 @@ Backend Developer (2+ years) | Java Spring Boot | Node Js | Database Systems
 
 ## 🚀 About Me
 
-- 🔭 Currently working on [Sikai Verse API](https://github.com/Sishir-Stha/Rms-Frontend.git)
+- 🔭 Currently working on [RMS System API and frontend ](https://github.com/Sishir-Stha/Rms-Frontend.git)
 - 🌱 Learning **Node JS**
 - 👯 Looking to collaborate on **Java Spring Boot projects**
 - 🤝 Need help with **Frontend & DevOps**
