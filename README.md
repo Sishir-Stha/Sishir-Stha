@@ -9,9 +9,7 @@ Backend Developer (3+ years) | Java Spring Boot | Node Js | Database Systems
 ## 🚀 About Me
 
 - 🔭 Currently working on [RMS System API and frontend ](https://github.com/Sishir-Stha/Rms-Frontend.git)
-- 🌱 Learning **Node JS**
 - 👯 Looking to collaborate on **Java Spring Boot projects**
-- 🤝 Need help with **Frontend & DevOps**
 - 💬 Ask me about **Java, SpringBoot, SQL, Backend Systems**
 - 📫 Email: sishershrestha000@gmail.com
 - ⚡ Fun fact: I prefer building scalable backend systems over UI
