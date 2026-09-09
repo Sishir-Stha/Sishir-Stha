@@ -5,7 +5,7 @@
     alt="Sishir Shrestha - Backend Engineer"
   />
 
-  <h3>Building dependable APIs and production systems for the aviation industry.</h3>
+  <h3>Building dependable APIs and production systems</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/sishir-shrestha-57a50b1b9/">
