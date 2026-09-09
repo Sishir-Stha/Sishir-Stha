@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,45:1E3A8A,100:06B6D4&amp;height=220&amp;section=header&amp;text=Sishir%20Shrestha&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=BACKEND%20ENGINEER%20%C2%B7%20JAVA%20%C2%B7%20SPRING%20BOOT%20%C2%B7%20AVIATION%20SYSTEMS&amp;descAlignY=58&amp;descSize=15&amp;animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,45:1E3A8A,100:06B6D4&amp;height=220&amp;section=header&amp;text=Sishir%20Shrestha&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=BACKEND%20ENGINEER%20%C2%B7%20JAVA%20%C2%B7%20SPRING%20BOOT;descAlignY=58&amp;descSize=15&amp;animation=fadeIn"
     alt="Sishir Shrestha - Backend Engineer"
   />
 
